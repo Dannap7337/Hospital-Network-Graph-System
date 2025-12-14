@@ -48,6 +48,7 @@ The core logic relies on advanced Data Structures and Algorithms:
 │   └── utils.py           # Data validation and Loading
 ├── README.md              # Documentation
 └── requirements.txt       # Dependencies
+```
 
 ---
 
