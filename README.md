@@ -39,15 +39,20 @@ The core logic relies on advanced Data Structures and Algorithms:
 ---
 
 ## 🛠️ Project Structure
+The system is organized into functional modules for better maintainability:
+
 ```text
-├── data/                  # CSV Datasets (Patients, Doctors, Routes)
-├── src/
-│   ├── graph_builder.py   # Node and Edge logic
-│   ├── algorithms.py      # Dijkstra and Haversine implementation
-│   ├── app.py             # Main execution logic
-│   └── utils.py           # Data validation and Loading
-├── README.md              # Documentation
-└── requirements.txt       # Dependencies
+├── datos/                      # Folder containing CSV Datasets
+├── inicio.py                   # 🚀 Main execution entry point
+├── hospital_cercano.py         # 🌍 Geospatial Logic (Haversine Formula)
+├── rutas_hospitales_doctor.py  # 📍 Graph Logic & Route Optimization (Dijkstra)
+├── agendar_cita.py             # Appointment scheduling logic
+├── buscar_doctores.py          # Search & Filtering algorithms
+├── login_paciente.py           # Patient Authentication
+├── login_doctor.py             # Doctor Authentication
+├── menu_paciente.py            # User Interface Navigation
+├── ui_tema.py                  # UI/UX Theme configurations
+└── utils.py                    # Helper functions for data loading
 ```
 
 ---
