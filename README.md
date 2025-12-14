@@ -48,3 +48,13 @@ The core logic relies on advanced Data Structures and Algorithms:
 │   └── utils.py           # Data validation and Loading
 ├── README.md              # Documentation
 └── requirements.txt       # Dependencies
+
+---
+
+## 👥 Contributors
+Developed by the Engineering Team at **Benemérita Universidad Autónoma de Puebla (BUAP)**:
+
+- **Danna Patricia Riveroll Martínez** 🐺
+- Abraham Fuentes López
+- Gabriela Nicolás Torres
+- Lidia Gizem Sánchez Montiel
