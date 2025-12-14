@@ -1,0 +1,3 @@
+id_cita,id_doctor,seguro_social,fecha,hora,especialidad,hospital,estatus
+C0001,D001,72633523399,25/11/2025,12:30,Pediatría,Hospital Angeles Acoxpa,ATENDIDA
+C0002,D3581,72633523399,24/11/2025,11:30,"Inmunología y Alergia, Inmunología y Alergia Pediátrica",Hospital Angeles Puebla,ACTIVA

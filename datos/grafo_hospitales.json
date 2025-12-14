@@ -1,0 +1,2452 @@
+{
+    "Hospital Angeles Acoxpa": [
+        [
+            "Hospital Angeles Lomas",
+            18.48
+        ],
+        [
+            "Hospital Angeles Roma",
+            12.93
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            9.01
+        ],
+        [
+            "Hospital Angeles Universidad",
+            7.9
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            20.7
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            12.29
+        ],
+        [
+            "Hospital Angeles Mocel",
+            13.32
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            15.97
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            13.62
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            189.59
+        ],
+        [
+            "Hospital Angeles México",
+            11.72
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            237.87
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            471.6
+        ],
+        [
+            "Hospital Angeles Puebla",
+            99.58
+        ],
+        [
+            "Hospital Angeles León",
+            337.84
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2306.87
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            371.85
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            668.1
+        ],
+        [
+            "Hospital Angeles Morelia",
+            216.97
+        ],
+        [
+            "Hospital Angeles Tampico",
+            354.82
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1555.57
+        ],
+        [
+            "Hospital Angeles Torreón",
+            816.11
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            713.18
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1050.61
+        ]
+    ],
+    "Hospital Angeles Lomas": [
+        [
+            "Hospital Angeles Acoxpa",
+            18.48
+        ],
+        [
+            "Hospital Angeles Roma",
+            13.26
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            11.08
+        ],
+        [
+            "Hospital Angeles Universidad",
+            12.33
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            18.9
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            11.98
+        ],
+        [
+            "Hospital Angeles Mocel",
+            10.16
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            10.35
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            13.33
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            171.64
+        ],
+        [
+            "Hospital Angeles México",
+            11.32
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            252.15
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            453.78
+        ],
+        [
+            "Hospital Angeles Puebla",
+            117.39
+        ],
+        [
+            "Hospital Angeles León",
+            319.39
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2288.58
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            355.02
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            685.13
+        ],
+        [
+            "Hospital Angeles Morelia",
+            200.16
+        ],
+        [
+            "Hospital Angeles Tampico",
+            351.09
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1539.42
+        ],
+        [
+            "Hospital Angeles Torreón",
+            799.22
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            700.41
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1032.15
+        ]
+    ],
+    "Hospital Angeles Roma": [
+        [
+            "Hospital Angeles Acoxpa",
+            12.93
+        ],
+        [
+            "Hospital Angeles Lomas",
+            13.26
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            13.23
+        ],
+        [
+            "Hospital Angeles Universidad",
+            5.71
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            8.43
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            1.48
+        ],
+        [
+            "Hospital Angeles Mocel",
+            3.1
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            4.25
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            0.69
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            178.85
+        ],
+        [
+            "Hospital Angeles México",
+            2.45
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            238.98
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            465.44
+        ],
+        [
+            "Hospital Angeles Puebla",
+            106.15
+        ],
+        [
+            "Hospital Angeles León",
+            328.43
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2296.63
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            359.9
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            672.83
+        ],
+        [
+            "Hospital Angeles Morelia",
+            212.76
+        ],
+        [
+            "Hospital Angeles Tampico",
+            343.8
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1543.2
+        ],
+        [
+            "Hospital Angeles Torreón",
+            804.15
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            700.25
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1041.29
+        ]
+    ],
+    "Hospital Angeles del Pedregal": [
+        [
+            "Hospital Angeles Acoxpa",
+            9.01
+        ],
+        [
+            "Hospital Angeles Lomas",
+            11.08
+        ],
+        [
+            "Hospital Angeles Roma",
+            13.23
+        ],
+        [
+            "Hospital Angeles Universidad",
+            8.03
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            21.56
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            11.86
+        ],
+        [
+            "Hospital Angeles Mocel",
+            11.49
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            13.83
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            13.79
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            182.66
+        ],
+        [
+            "Hospital Angeles México",
+            10.88
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            246.59
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            462.75
+        ],
+        [
+            "Hospital Angeles Puebla",
+            108.49
+        ],
+        [
+            "Hospital Angeles León",
+            329.99
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2299.4
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            366.07
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            677.1
+        ],
+        [
+            "Hospital Angeles Morelia",
+            207.97
+        ],
+        [
+            "Hospital Angeles Tampico",
+            356.9
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1550.37
+        ],
+        [
+            "Hospital Angeles Torreón",
+            810.27
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            710.37
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1042.66
+        ]
+    ],
+    "Hospital Angeles Universidad": [
+        [
+            "Hospital Angeles Acoxpa",
+            7.9
+        ],
+        [
+            "Hospital Angeles Lomas",
+            12.33
+        ],
+        [
+            "Hospital Angeles Roma",
+            5.71
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            8.03
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            14.11
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            4.67
+        ],
+        [
+            "Hospital Angeles Mocel",
+            5.43
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            8.1
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            6.38
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            182.06
+        ],
+        [
+            "Hospital Angeles México",
+            3.92
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            240.54
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            466.09
+        ],
+        [
+            "Hospital Angeles Puebla",
+            105.11
+        ],
+        [
+            "Hospital Angeles León",
+            330.83
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2299.55
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            364.0
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            672.82
+        ],
+        [
+            "Hospital Angeles Morelia",
+            212.42
+        ],
+        [
+            "Hospital Angeles Tampico",
+            349.42
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1547.67
+        ],
+        [
+            "Hospital Angeles Torreón",
+            808.26
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            705.56
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1043.65
+        ]
+    ],
+    "Hospital Angeles Lindavista": [
+        [
+            "Hospital Angeles Acoxpa",
+            20.7
+        ],
+        [
+            "Hospital Angeles Lomas",
+            18.9
+        ],
+        [
+            "Hospital Angeles Roma",
+            8.43
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            21.56
+        ],
+        [
+            "Hospital Angeles Universidad",
+            14.11
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            9.71
+        ],
+        [
+            "Hospital Angeles Mocel",
+            10.29
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            8.75
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            7.81
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            175.37
+        ],
+        [
+            "Hospital Angeles México",
+            10.69
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            235.83
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            465.75
+        ],
+        [
+            "Hospital Angeles Puebla",
+            107.11
+        ],
+        [
+            "Hospital Angeles León",
+            326.13
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2293.36
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            354.79
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            671.81
+        ],
+        [
+            "Hospital Angeles Morelia",
+            214.66
+        ],
+        [
+            "Hospital Angeles Tampico",
+            335.38
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1537.4
+        ],
+        [
+            "Hospital Angeles Torreón",
+            798.98
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            692.92
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1038.91
+        ]
+    ],
+    "Hospital Angeles Metropolitano": [
+        [
+            "Hospital Angeles Acoxpa",
+            12.29
+        ],
+        [
+            "Hospital Angeles Lomas",
+            11.98
+        ],
+        [
+            "Hospital Angeles Roma",
+            1.48
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            11.86
+        ],
+        [
+            "Hospital Angeles Universidad",
+            4.67
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            9.71
+        ],
+        [
+            "Hospital Angeles Mocel",
+            1.95
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            3.94
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            1.94
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            178.7
+        ],
+        [
+            "Hospital Angeles México",
+            0.99
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            240.19
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            464.62
+        ],
+        [
+            "Hospital Angeles Puebla",
+            106.85
+        ],
+        [
+            "Hospital Angeles León",
+            328.04
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2296.39
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            360.05
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            673.77
+        ],
+        [
+            "Hospital Angeles Morelia",
+            211.74
+        ],
+        [
+            "Hospital Angeles Tampico",
+            345.09
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1543.5
+        ],
+        [
+            "Hospital Angeles Torreón",
+            804.31
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            700.96
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1040.89
+        ]
+    ],
+    "Hospital Angeles Mocel": [
+        [
+            "Hospital Angeles Acoxpa",
+            13.32
+        ],
+        [
+            "Hospital Angeles Lomas",
+            10.16
+        ],
+        [
+            "Hospital Angeles Roma",
+            3.1
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            11.49
+        ],
+        [
+            "Hospital Angeles Universidad",
+            5.43
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            10.29
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            1.95
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            2.68
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            3.22
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            177.07
+        ],
+        [
+            "Hospital Angeles México",
+            1.78
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            242.06
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            462.69
+        ],
+        [
+            "Hospital Angeles Puebla",
+            108.76
+        ],
+        [
+            "Hospital Angeles León",
+            326.27
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2294.71
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            358.68
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            675.72
+        ],
+        [
+            "Hospital Angeles Morelia",
+            209.8
+        ],
+        [
+            "Hospital Angeles Tampico",
+            345.44
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1542.27
+        ],
+        [
+            "Hospital Angeles Torreón",
+            802.95
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            700.23
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1039.11
+        ]
+    ],
+    "Hospital Angeles Santa Mónica": [
+        [
+            "Hospital Angeles Acoxpa",
+            15.97
+        ],
+        [
+            "Hospital Angeles Lomas",
+            10.35
+        ],
+        [
+            "Hospital Angeles Roma",
+            4.25
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            13.83
+        ],
+        [
+            "Hospital Angeles Universidad",
+            8.1
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            8.75
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            3.94
+        ],
+        [
+            "Hospital Angeles Mocel",
+            2.68
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            3.89
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            174.77
+        ],
+        [
+            "Hospital Angeles México",
+            4.28
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            242.56
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            461.28
+        ],
+        [
+            "Hospital Angeles Puebla",
+            110.38
+        ],
+        [
+            "Hospital Angeles León",
+            324.21
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2292.49
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            356.14
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            676.89
+        ],
+        [
+            "Hospital Angeles Morelia",
+            208.83
+        ],
+        [
+            "Hospital Angeles Tampico",
+            343.29
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1539.66
+        ],
+        [
+            "Hospital Angeles Torreón",
+            800.41
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            697.55
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1037.06
+        ]
+    ],
+    "Hospital Angeles Clínica Londres": [
+        [
+            "Hospital Angeles Acoxpa",
+            13.62
+        ],
+        [
+            "Hospital Angeles Lomas",
+            13.33
+        ],
+        [
+            "Hospital Angeles Roma",
+            0.69
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            13.79
+        ],
+        [
+            "Hospital Angeles Universidad",
+            6.38
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            7.81
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            1.94
+        ],
+        [
+            "Hospital Angeles Mocel",
+            3.22
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            3.89
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            178.32
+        ],
+        [
+            "Hospital Angeles México",
+            2.93
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            239.01
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            465.16
+        ],
+        [
+            "Hospital Angeles Puebla",
+            106.49
+        ],
+        [
+            "Hospital Angeles León",
+            327.98
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2296.11
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            359.28
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            673.05
+        ],
+        [
+            "Hospital Angeles Morelia",
+            212.6
+        ],
+        [
+            "Hospital Angeles Tampico",
+            343.19
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1542.56
+        ],
+        [
+            "Hospital Angeles Torreón",
+            803.54
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            699.56
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1040.83
+        ]
+    ],
+    "Hospital Angeles Centro Sur": [
+        [
+            "Hospital Angeles Acoxpa",
+            189.59
+        ],
+        [
+            "Hospital Angeles Lomas",
+            171.64
+        ],
+        [
+            "Hospital Angeles Roma",
+            178.85
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            182.66
+        ],
+        [
+            "Hospital Angeles Universidad",
+            182.06
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            175.37
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            178.7
+        ],
+        [
+            "Hospital Angeles Mocel",
+            177.07
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            174.77
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            178.32
+        ],
+        [
+            "Hospital Angeles México",
+            178.85
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            381.69
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            317.16
+        ],
+        [
+            "Hospital Angeles Puebla",
+            280.38
+        ],
+        [
+            "Hospital Angeles León",
+            154.44
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2117.99
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            188.87
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            828.55
+        ],
+        [
+            "Hospital Angeles Morelia",
+            130.24
+        ],
+        [
+            "Hospital Angeles Tampico",
+            320.03
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1374.11
+        ],
+        [
+            "Hospital Angeles Torreón",
+            630.67
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            562.87
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            865.14
+        ]
+    ],
+    "Hospital Angeles México": [
+        [
+            "Hospital Angeles Acoxpa",
+            11.72
+        ],
+        [
+            "Hospital Angeles Lomas",
+            11.32
+        ],
+        [
+            "Hospital Angeles Roma",
+            2.45
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            10.88
+        ],
+        [
+            "Hospital Angeles Universidad",
+            3.92
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            10.69
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            0.99
+        ],
+        [
+            "Hospital Angeles Mocel",
+            1.78
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            4.28
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            2.93
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            178.85
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            240.84
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            464.31
+        ],
+        [
+            "Hospital Angeles Puebla",
+            107.09
+        ],
+        [
+            "Hospital Angeles León",
+            328.04
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2296.49
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            360.4
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            674.19
+        ],
+        [
+            "Hospital Angeles Morelia",
+            211.26
+        ],
+        [
+            "Hospital Angeles Tampico",
+            346.06
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1543.94
+        ],
+        [
+            "Hospital Angeles Torreón",
+            804.67
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            701.64
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1040.88
+        ]
+    ],
+    "Hospital Angeles Xalapa": [
+        [
+            "Hospital Angeles Acoxpa",
+            237.87
+        ],
+        [
+            "Hospital Angeles Lomas",
+            252.15
+        ],
+        [
+            "Hospital Angeles Roma",
+            238.98
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            246.59
+        ],
+        [
+            "Hospital Angeles Universidad",
+            240.54
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            235.83
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            240.19
+        ],
+        [
+            "Hospital Angeles Mocel",
+            242.06
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            242.56
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            239.01
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            381.69
+        ],
+        [
+            "Hospital Angeles México",
+            240.84
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            693.54
+        ],
+        [
+            "Hospital Angeles Puebla",
+            152.43
+        ],
+        [
+            "Hospital Angeles León",
+            534.96
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2468.91
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            520.3
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            447.18
+        ],
+        [
+            "Hospital Angeles Morelia",
+            449.69
+        ],
+        [
+            "Hospital Angeles Tampico",
+            322.49
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1652.92
+        ],
+        [
+            "Hospital Angeles Torreón",
+            943.37
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            765.21
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1235.11
+        ]
+    ],
+    "Hospital Angeles Del Carmen": [
+        [
+            "Hospital Angeles Acoxpa",
+            471.6
+        ],
+        [
+            "Hospital Angeles Lomas",
+            453.78
+        ],
+        [
+            "Hospital Angeles Roma",
+            465.44
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            462.75
+        ],
+        [
+            "Hospital Angeles Universidad",
+            466.09
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            465.75
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            464.62
+        ],
+        [
+            "Hospital Angeles Mocel",
+            462.69
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            461.28
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            465.16
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            317.16
+        ],
+        [
+            "Hospital Angeles México",
+            464.31
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            693.54
+        ],
+        [
+            "Hospital Angeles Puebla",
+            571.14
+        ],
+        [
+            "Hospital Angeles León",
+            184.28
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            1882.61
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            295.43
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            1136.88
+        ],
+        [
+            "Hospital Angeles Morelia",
+            258.99
+        ],
+        [
+            "Hospital Angeles Tampico",
+            599.33
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1258.23
+        ],
+        [
+            "Hospital Angeles Torreón",
+            535.53
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            633.7
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            616.15
+        ]
+    ],
+    "Hospital Angeles Puebla": [
+        [
+            "Hospital Angeles Acoxpa",
+            99.58
+        ],
+        [
+            "Hospital Angeles Lomas",
+            117.39
+        ],
+        [
+            "Hospital Angeles Roma",
+            106.15
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            108.49
+        ],
+        [
+            "Hospital Angeles Universidad",
+            105.11
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            107.11
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            106.85
+        ],
+        [
+            "Hospital Angeles Mocel",
+            108.76
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            110.38
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            106.49
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            280.38
+        ],
+        [
+            "Hospital Angeles México",
+            107.09
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            152.43
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            571.14
+        ],
+        [
+            "Hospital Angeles León",
+            432.74
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2397.44
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            452.17
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            569.26
+        ],
+        [
+            "Hospital Angeles Morelia",
+            316.08
+        ],
+        [
+            "Hospital Angeles Tampico",
+            362.37
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1626.7
+        ],
+        [
+            "Hospital Angeles Torreón",
+            894.28
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            764.29
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1145.22
+        ]
+    ],
+    "Hospital Angeles León": [
+        [
+            "Hospital Angeles Acoxpa",
+            337.84
+        ],
+        [
+            "Hospital Angeles Lomas",
+            319.39
+        ],
+        [
+            "Hospital Angeles Roma",
+            328.43
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            329.99
+        ],
+        [
+            "Hospital Angeles Universidad",
+            330.83
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            326.13
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            328.04
+        ],
+        [
+            "Hospital Angeles Mocel",
+            326.27
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            324.21
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            327.98
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            154.44
+        ],
+        [
+            "Hospital Angeles México",
+            328.04
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            534.96
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            184.28
+        ],
+        [
+            "Hospital Angeles Puebla",
+            432.74
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            1970.53
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            130.73
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            982.12
+        ],
+        [
+            "Hospital Angeles Morelia",
+            174.14
+        ],
+        [
+            "Hospital Angeles Tampico",
+            415.11
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1259.31
+        ],
+        [
+            "Hospital Angeles Torreón",
+            512.96
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            516.75
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            712.85
+        ]
+    ],
+    "Hospital Angeles Tijuana": [
+        [
+            "Hospital Angeles Acoxpa",
+            2306.87
+        ],
+        [
+            "Hospital Angeles Lomas",
+            2288.58
+        ],
+        [
+            "Hospital Angeles Roma",
+            2296.63
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            2299.4
+        ],
+        [
+            "Hospital Angeles Universidad",
+            2299.55
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            2293.36
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            2296.39
+        ],
+        [
+            "Hospital Angeles Mocel",
+            2294.71
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            2292.49
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            2296.11
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            2117.99
+        ],
+        [
+            "Hospital Angeles México",
+            2296.49
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            2468.91
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            1882.61
+        ],
+        [
+            "Hospital Angeles Puebla",
+            2397.44
+        ],
+        [
+            "Hospital Angeles León",
+            1970.53
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            1950.97
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            2896.8
+        ],
+        [
+            "Hospital Angeles Morelia",
+            2125.41
+        ],
+        [
+            "Hospital Angeles Tampico",
+            2201.22
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1005.39
+        ],
+        [
+            "Hospital Angeles Torreón",
+            1534.44
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            1791.47
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1266.77
+        ]
+    ],
+    "Hospital Angeles San Luis Potosí": [
+        [
+            "Hospital Angeles Acoxpa",
+            371.85
+        ],
+        [
+            "Hospital Angeles Lomas",
+            355.02
+        ],
+        [
+            "Hospital Angeles Roma",
+            359.9
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            366.07
+        ],
+        [
+            "Hospital Angeles Universidad",
+            364.0
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            354.79
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            360.05
+        ],
+        [
+            "Hospital Angeles Mocel",
+            358.68
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            356.14
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            359.28
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            188.87
+        ],
+        [
+            "Hospital Angeles México",
+            360.4
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            520.3
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            295.43
+        ],
+        [
+            "Hospital Angeles Puebla",
+            452.17
+        ],
+        [
+            "Hospital Angeles León",
+            130.73
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            1950.97
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            960.91
+        ],
+        [
+            "Hospital Angeles Morelia",
+            275.5
+        ],
+        [
+            "Hospital Angeles Tampico",
+            324.99
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1185.65
+        ],
+        [
+            "Hospital Angeles Torreón",
+            444.26
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            393.47
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            717.79
+        ]
+    ],
+    "Hospital Angeles Villahermosa": [
+        [
+            "Hospital Angeles Acoxpa",
+            668.1
+        ],
+        [
+            "Hospital Angeles Lomas",
+            685.13
+        ],
+        [
+            "Hospital Angeles Roma",
+            672.83
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            677.1
+        ],
+        [
+            "Hospital Angeles Universidad",
+            672.82
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            671.81
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            673.77
+        ],
+        [
+            "Hospital Angeles Mocel",
+            675.72
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            676.89
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            673.05
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            828.55
+        ],
+        [
+            "Hospital Angeles México",
+            674.19
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            447.18
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            1136.88
+        ],
+        [
+            "Hospital Angeles Puebla",
+            569.26
+        ],
+        [
+            "Hospital Angeles León",
+            982.12
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2896.8
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            960.91
+        ],
+        [
+            "Hospital Angeles Morelia",
+            885.07
+        ],
+        [
+            "Hospital Angeles Tampico",
+            699.19
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            2034.15
+        ],
+        [
+            "Hospital Angeles Torreón",
+            1362.83
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            1138.51
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1678.49
+        ]
+    ],
+    "Hospital Angeles Morelia": [
+        [
+            "Hospital Angeles Acoxpa",
+            216.97
+        ],
+        [
+            "Hospital Angeles Lomas",
+            200.16
+        ],
+        [
+            "Hospital Angeles Roma",
+            212.76
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            207.97
+        ],
+        [
+            "Hospital Angeles Universidad",
+            212.42
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            214.66
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            211.74
+        ],
+        [
+            "Hospital Angeles Mocel",
+            209.8
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            208.83
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            212.6
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            130.24
+        ],
+        [
+            "Hospital Angeles México",
+            211.26
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            449.69
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            258.99
+        ],
+        [
+            "Hospital Angeles Puebla",
+            316.08
+        ],
+        [
+            "Hospital Angeles León",
+            174.14
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2125.41
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            275.5
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            885.07
+        ],
+        [
+            "Hospital Angeles Tampico",
+            448.02
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1433.36
+        ],
+        [
+            "Hospital Angeles Torreón",
+            687.09
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            667.71
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            860.3
+        ]
+    ],
+    "Hospital Angeles Tampico": [
+        [
+            "Hospital Angeles Acoxpa",
+            354.82
+        ],
+        [
+            "Hospital Angeles Lomas",
+            351.09
+        ],
+        [
+            "Hospital Angeles Roma",
+            343.8
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            356.9
+        ],
+        [
+            "Hospital Angeles Universidad",
+            349.42
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            335.38
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            345.09
+        ],
+        [
+            "Hospital Angeles Mocel",
+            345.44
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            343.29
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            343.19
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            320.03
+        ],
+        [
+            "Hospital Angeles México",
+            346.06
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            322.49
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            599.33
+        ],
+        [
+            "Hospital Angeles Puebla",
+            362.37
+        ],
+        [
+            "Hospital Angeles León",
+            415.11
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            2201.22
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            324.99
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            699.19
+        ],
+        [
+            "Hospital Angeles Morelia",
+            448.02
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            1343.68
+        ],
+        [
+            "Hospital Angeles Torreón",
+            667.1
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            448.67
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            1015.54
+        ]
+    ],
+    "Hospital Angeles Ciudad Juárez": [
+        [
+            "Hospital Angeles Acoxpa",
+            1555.57
+        ],
+        [
+            "Hospital Angeles Lomas",
+            1539.42
+        ],
+        [
+            "Hospital Angeles Roma",
+            1543.2
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            1550.37
+        ],
+        [
+            "Hospital Angeles Universidad",
+            1547.67
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            1537.4
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            1543.5
+        ],
+        [
+            "Hospital Angeles Mocel",
+            1542.27
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            1539.66
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            1542.56
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            1374.11
+        ],
+        [
+            "Hospital Angeles México",
+            1543.94
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            1652.92
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            1258.23
+        ],
+        [
+            "Hospital Angeles Puebla",
+            1626.7
+        ],
+        [
+            "Hospital Angeles León",
+            1259.31
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            1005.39
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            1185.65
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            2034.15
+        ],
+        [
+            "Hospital Angeles Morelia",
+            1433.36
+        ],
+        [
+            "Hospital Angeles Tampico",
+            1343.68
+        ],
+        [
+            "Hospital Angeles Torreón",
+            746.6
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            896.53
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            773.48
+        ]
+    ],
+    "Hospital Angeles Torreón": [
+        [
+            "Hospital Angeles Acoxpa",
+            816.11
+        ],
+        [
+            "Hospital Angeles Lomas",
+            799.22
+        ],
+        [
+            "Hospital Angeles Roma",
+            804.15
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            810.27
+        ],
+        [
+            "Hospital Angeles Universidad",
+            808.26
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            798.98
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            804.31
+        ],
+        [
+            "Hospital Angeles Mocel",
+            802.95
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            800.41
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            803.54
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            630.67
+        ],
+        [
+            "Hospital Angeles México",
+            804.67
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            943.37
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            535.53
+        ],
+        [
+            "Hospital Angeles Puebla",
+            894.28
+        ],
+        [
+            "Hospital Angeles León",
+            512.96
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            1534.44
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            444.26
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            1362.83
+        ],
+        [
+            "Hospital Angeles Morelia",
+            687.09
+        ],
+        [
+            "Hospital Angeles Tampico",
+            667.1
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            746.6
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            309.33
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            415.22
+        ]
+    ],
+    "Hospital Angeles Valle Oriente": [
+        [
+            "Hospital Angeles Acoxpa",
+            713.18
+        ],
+        [
+            "Hospital Angeles Lomas",
+            700.41
+        ],
+        [
+            "Hospital Angeles Roma",
+            700.25
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            710.37
+        ],
+        [
+            "Hospital Angeles Universidad",
+            705.56
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            692.92
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            700.96
+        ],
+        [
+            "Hospital Angeles Mocel",
+            700.23
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            697.55
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            699.56
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            562.87
+        ],
+        [
+            "Hospital Angeles México",
+            701.64
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            765.21
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            633.7
+        ],
+        [
+            "Hospital Angeles Puebla",
+            764.29
+        ],
+        [
+            "Hospital Angeles León",
+            516.75
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            1791.47
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            393.47
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            1138.51
+        ],
+        [
+            "Hospital Angeles Morelia",
+            667.71
+        ],
+        [
+            "Hospital Angeles Tampico",
+            448.67
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            896.53
+        ],
+        [
+            "Hospital Angeles Torreón",
+            309.33
+        ],
+        [
+            "Hospital Angeles Culiacán",
+            723.27
+        ]
+    ],
+    "Hospital Angeles Culiacán": [
+        [
+            "Hospital Angeles Acoxpa",
+            1050.61
+        ],
+        [
+            "Hospital Angeles Lomas",
+            1032.15
+        ],
+        [
+            "Hospital Angeles Roma",
+            1041.29
+        ],
+        [
+            "Hospital Angeles del Pedregal",
+            1042.66
+        ],
+        [
+            "Hospital Angeles Universidad",
+            1043.65
+        ],
+        [
+            "Hospital Angeles Lindavista",
+            1038.91
+        ],
+        [
+            "Hospital Angeles Metropolitano",
+            1040.89
+        ],
+        [
+            "Hospital Angeles Mocel",
+            1039.11
+        ],
+        [
+            "Hospital Angeles Santa Mónica",
+            1037.06
+        ],
+        [
+            "Hospital Angeles Clínica Londres",
+            1040.83
+        ],
+        [
+            "Hospital Angeles Centro Sur",
+            865.14
+        ],
+        [
+            "Hospital Angeles México",
+            1040.88
+        ],
+        [
+            "Hospital Angeles Xalapa",
+            1235.11
+        ],
+        [
+            "Hospital Angeles Del Carmen",
+            616.15
+        ],
+        [
+            "Hospital Angeles Puebla",
+            1145.22
+        ],
+        [
+            "Hospital Angeles León",
+            712.85
+        ],
+        [
+            "Hospital Angeles Tijuana",
+            1266.77
+        ],
+        [
+            "Hospital Angeles San Luis Potosí",
+            717.79
+        ],
+        [
+            "Hospital Angeles Villahermosa",
+            1678.49
+        ],
+        [
+            "Hospital Angeles Morelia",
+            860.3
+        ],
+        [
+            "Hospital Angeles Tampico",
+            1015.54
+        ],
+        [
+            "Hospital Angeles Ciudad Juárez",
+            773.48
+        ],
+        [
+            "Hospital Angeles Torreón",
+            415.22
+        ],
+        [
+            "Hospital Angeles Valle Oriente",
+            723.27
+        ]
+    ]
+}
